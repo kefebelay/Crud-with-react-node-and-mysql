@@ -67,5 +67,5 @@ app.put('/books/:id', (req,res)=>{
 
 
 app.listen(3001, ()=>{
-    console.log("nigga 3001")
+    console.log("server running on 3001")
 })
